@@ -1,1 +1,1 @@
-print('Hello, This is AI-Hexa')
+print('hello AI-Hexa')
