@@ -1,9 +1,3 @@
-from posixpath import split
-from colorama import Fore 
-print(Fore.BLUE + 'Processed...')
-import numpy as np 
-import pandas as pd
-
 question = input('Ask me a question :\n')
+print(f'your question is {question}')
 
-split_question = question.split(sep = ' ')
