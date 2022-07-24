@@ -1,5 +1,5 @@
 # AI-Hexa
 
 This is a test readMe 
-[Here](https://replit.com/@HabibAlizadeh45/AIHaxa?v=1) you can see the output !
+[Here](https://github1s.com/HabibAlizadeh45/AI-Hexa/blob/main/About-me.py) you can see the output !
 
