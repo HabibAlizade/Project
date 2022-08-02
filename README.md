@@ -10,4 +10,6 @@ for SGD implementation with cross-entropy cost funtion, L^{2}-regularization ter
 
 There is also svm.py module which tests the SVM on MNIST dataset and gives a pretty much satisfying accuracy score ! 
 
+The mnist.pkl.gz is the mnist dataset that is pickled.
+
 The other files are pretty much self-explanatory.
