@@ -1,5 +1,6 @@
 # Digit-Recognition
 
-This is a test readMe 
-[Here](https://github1s.com/HabibAlizadeh45/AI-Hexa/blob/main/About-me.py) you can see the output !
+This implementation is taken from "Neural Networks and Deep Learning" book by M. Nielsen 
+
+Click [Here](http://neuralnetworksanddeeplearning.com/chap3.html#other_techniques) to see the book. It's an amazing book for beginners in Neural Networks.
 
